@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "THERE IS A REASON",
+  "base_artist": "鈴木このみ",
+  "createdAt": "2025-12-01T10:29:58.891073Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "There Is a Reason",
+      "artist": "Caedmon's Call",
+      "has_synced": true,
+      "path": "select/01_There_Is_a_Reason_Caedmon's_Call.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "There Is A Reason",
+      "artist": "Konomi Suzuki",
+      "has_synced": false,
+      "path": "select/02_There_Is_A_Reason_Konomi_Suzuki.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "THERE IS A REASON",
+      "artist": "Konomi Suzuki",
+      "has_synced": true,
+      "path": "select/03_THERE_IS_A_REASON_Konomi_Suzuki.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "There Is a Reason",
+      "artist": "Alison Krauss",
+      "has_synced": true,
+      "path": "select/04_There_Is_a_Reason_Alison_Krauss.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "THERE IS A REASON",
+      "artist": "鈴木このみ",
+      "has_synced": true,
+      "path": "select/05_THERE_IS_A_REASON_鈴木このみ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "THERE IS A REASON",
+      "artist": "鈴木このみ",
+      "has_synced": true,
+      "path": "select/06_THERE_IS_A_REASON_鈴木このみ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "There is a Reason",
+      "artist": "Lloyd Tevedzai",
+      "has_synced": true,
+      "path": "select/07_There_is_a_Reason_Lloyd_Tevedzai.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "THERE IS A REASON",
+      "artist": "Konomi Suzuki",
+      "has_synced": true,
+      "path": "select/08_THERE_IS_A_REASON_Konomi_Suzuki.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "There Is a Reason",
+      "artist": "Selphius",
+      "has_synced": true,
+      "path": "select/09_There_Is_a_Reason_Selphius.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "There Is a Reason",
+      "artist": "Evilmane",
+      "has_synced": false,
+      "path": "select/10_There_Is_a_Reason_Evilmane.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "THERE IS A REASON",
+      "artist": "鈴木このみ",
+      "has_synced": false,
+      "path": "select/11_THERE_IS_A_REASON_鈴木このみ.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "There Is a Reason",
+      "artist": "Alison Krauss & Union Station",
+      "has_synced": true,
+      "path": "select/12_There_Is_a_Reason_Alison_Krauss_&_Union_Station.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "THERE IS A REASON",
+      "artist": "Suzuki Konomi",
+      "has_synced": false,
+      "path": "select/13_THERE_IS_A_REASON_Suzuki_Konomi.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "THERE IS A REASON",
+      "artist": "鈴木このみ",
+      "has_synced": false,
+      "path": "select/pl_01_THERE_IS_A_REASON_鈴木このみ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "THERE IS A REASON",
+      "artist": "鈴木このみ",
+      "has_synced": false,
+      "path": "select/pl_02_THERE_IS_A_REASON_鈴木このみ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "THERE IS A REASON (From \"No Game No Life: Zero\") - Remix",
+      "artist": "鈴木このみ",
+      "has_synced": false,
+      "path": "select/pl_03_THERE_IS_A_REASON_(From__No_Game_No_Life__Zero_)_-_Remix_鈴木このみ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "THERE IS A REASON",
+      "artist": "鈴木このみ",
+      "has_synced": false,
+      "path": "select/pl_04_THERE_IS_A_REASON_鈴木このみ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "THERE IS A REASON",
+      "artist": "鈴木このみ",
+      "has_synced": false,
+      "path": "select/pl_05_THERE_IS_A_REASON_鈴木このみ.txt"
+    }
+  ]
+}
